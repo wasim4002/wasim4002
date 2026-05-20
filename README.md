@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Muhammad Wasim Uddin Omar</h1>
 
-<!--
-**wasim4002/wasim4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 <strong></strong>Full Stack Web Developer</strong><br/>  
+🚀 Next.js | Nest.js | React | Prisma | Tailwind CSS<br/>  
+🌱 Currently learning advanced system architecture 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- JavaScript / TypeScript
+- Next.js (App Router)
+- React.js
+- Nest.js
+- Prisma, PostgreSQL, MySQL
+- Tailwind CSS
+- Docker & Git
+---
+
+## 📌 Current Focus
+- SaaS MVP development
+- API design & authentication
+- Performance optimization
+---
+
+## 🌐 Connect with Me
+- GitHub: https://github.com/Omarmdwasimuddin
+- Linkedin: www.linkedin.com/in/mwasimuddin
+- Website: https://wasim-uddin-portfolio.vercel.app/
+- Email: mdwasimu015@gmail.com
